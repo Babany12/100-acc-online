@@ -3647,10 +3647,7 @@ jano100.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 
-//////////////// tokn lera da bne 
-
-jano.login("");
-jano2.login("");
+//////////////// tokn lera da bne");
 jano3.login("");
 jano4.login("");
 jano5.login("");
@@ -3745,7 +3742,5 @@ jano93.login("");
 jano94.login("");
 jano95.login("");
 jano96.login("");
-jano97.login("");
-jano98.login("");
-jano99.login("");
-jano100.login("");
+jaODkxNDI2NDcyOTQ5MDU5NjE0.YU-MMA.NtIN_UppSUgoNJaZHi8dhzUVZTA");
+janODkxNDI1MzcyMzE3NTQ4NjQ3.YU-LUA._G-Srk4bmm2Q21iPG1ym0zjiufo");
